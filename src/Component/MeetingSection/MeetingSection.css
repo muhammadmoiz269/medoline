@@ -1,0 +1,49 @@
+.MeetingSec {
+  overflow-y: scroll;
+
+  height: 500px;
+  padding: 2rem 0.5rem;
+  background: #f8f8f8;
+  margin-top: 2rem;
+  box-shadow: 2px 2px 6px 1px rgba(0, 0, 0, 0.2);
+
+  border-radius: 10px;
+  height: min-content;
+}
+.meetingSection {
+  display: flex;
+  justify-content: space-between;
+}
+.meetingSectionHeading {
+  margin-left: 1rem;
+}
+.meetingSectionScrollBar {
+  height: 330px;
+  overflow-y: scroll;
+  scrollbar-width: 10px;
+}
+.meetingSectionPlacement {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+/* //for Hiding scroll bar */
+::-webkit-scrollbar {
+  width: 1px;
+}
+.LeftOutlineIcon {
+  padding-right: 3rem;
+  color: #c95b1d;
+}
+.RightOutlineIcon {
+  padding-left: 3rem;
+  color: #c95b1d;
+}
+@media only screen and (max-device-width: 820px) {
+  .LeftOutlineIcon {
+    padding-right: 1rem;
+  }
+  .RightOutlineIcon {
+    padding-left: 1rem;
+  }
+}

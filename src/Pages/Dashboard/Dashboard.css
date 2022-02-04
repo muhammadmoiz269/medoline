@@ -1,0 +1,12 @@
+.dashboardContent {
+  padding: 1rem 0.5rem;
+  background: #ffff;
+  border-bottom: 1px solid gray;
+}
+
+.layout {
+  margin-left: 205px;
+}
+.footer {
+  height: 150px;
+}

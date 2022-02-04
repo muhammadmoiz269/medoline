@@ -1,0 +1,13 @@
+.customerListContent {
+  padding: 0.5rem 0rem;
+  background: #ffff;
+  border-bottom: 1px solid gray;
+}
+.customerListHeadSection {
+  padding: 0.5rem 2rem;
+
+  border-bottom: 1px solid #dcdcdc;
+}
+h1.ant-typography {
+  margin-bottom: 0.2em !important;
+}

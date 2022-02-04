@@ -1,0 +1,17 @@
+.customerContent {
+  padding: 1rem 2rem;
+  background: #ffff;
+  border-bottom: 1px solid gray;
+}
+.customerHeadSection {
+  border-bottom: 1px solid #dcdcdc;
+}
+.BtnWidth {
+  /* width: 120px; */
+}
+.ant-btn {
+  background: #00818f !important;
+  border: 1px solid #00818f;
+  color: #ffff !important;
+  border-radius: 5px;
+}

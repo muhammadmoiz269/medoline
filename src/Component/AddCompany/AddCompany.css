@@ -1,0 +1,9 @@
+.ant-collapse {
+  background: #ffff;
+  border: none;
+}
+.ant-collapse > .ant-collapse-item {
+  border-bottom: none;
+  border: none;
+  border-top: none;
+}

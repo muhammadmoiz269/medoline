@@ -1,0 +1,7 @@
+:hover.antButton {
+  cursor: pointer;
+}
+.antButton {
+  /* width: 100%; */
+  width: max-content;
+}

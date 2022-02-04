@@ -1,0 +1,23 @@
+.TaskSec {
+  padding: 2rem 0.5rem;
+  background: #f8f8f8;
+  margin-top: 2rem;
+
+  box-shadow: 2px 2px 6px 1px rgba(0, 0, 0, 0.2);
+
+  border-radius: 10px;
+  height: min-content;
+}
+.taskUpperSection {
+  display: flex;
+  justify-content: space-between;
+}
+.taskUpperSection > :first-child {
+  margin-left: 1rem;
+}
+.MuiGridCont {
+  display: flex !important;
+  justify-content: space-around !important;
+  align-items: center !important;
+  /* overflow-x: hidden; */
+}

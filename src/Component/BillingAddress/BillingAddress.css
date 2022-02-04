@@ -1,0 +1,22 @@
+.zip {
+  width: 250px;
+  margin-right: 1rem;
+}
+.city {
+  width: 250px;
+  margin-right: 1rem;
+}
+.state {
+  width: 250px;
+  margin-right: 1rem;
+}
+textarea.ant-input {
+  /* max-width: 0; */
+  width: 100%;
+}
+.textAreaWidth {
+  width: 75%;
+}
+.billingSection {
+  padding-top: 1rem;
+}

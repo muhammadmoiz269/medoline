@@ -1,0 +1,8 @@
+.verticalGap {
+  margin-top: 0.5rem;
+}
+.btnGap {
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: space-between;
+}

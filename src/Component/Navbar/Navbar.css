@@ -1,0 +1,12 @@
+.navbarSelect {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+.navBarImage {
+  justify-content: center;
+  align-items: center;
+  background: #ffff;
+  display: flex;
+}

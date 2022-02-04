@@ -1,0 +1,43 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ant-popover-inner-content {
+  padding: 0 0;
+}
+.settingPopOver > span {
+  display: flex;
+}
+
+.SettingLowerSection {
+  height: 70%;
+  background: #ffff;
+}
+.SettingProfileBox {
+  height: 150px;
+  width: 160px;
+  position: absolute;
+  top: 42px;
+  right: -110px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.profileButton {
+  flex-flow: column;
+}
+.PopOver {
+  /* border-radius: 50%; */
+}
+@media only screen and (max-device-width: 1024px) {
+  .antcard {
+    padding: 0.2rem 1rem;
+    margin-top: 1rem;
+  }
+}
+@media only screen and (max-device-width: 768px) {
+  .antcard {
+    margin-top: 1rem;
+  }
+}

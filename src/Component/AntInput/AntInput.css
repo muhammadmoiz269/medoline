@@ -1,0 +1,8 @@
+.ant-input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #00818f;
+}
+.ant-form-item-label > label {
+  display: none;
+}

@@ -1,0 +1,36 @@
+.anticon anticon-menu {
+  display: none !important;
+}
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: initial;
+  padding-right: 0rem;
+  /* padding-left: 3rem; */
+  background: #cedde7;
+  /* box-shadow: 5px 10px #888888; */
+}
+.ant-layout-content {
+  min-height: 100vh;
+}
+.footerSection {
+  display: flex;
+  justify-content: center;
+  background: #004d8b;
+  align-items: center;
+  height: 100%;
+}
+.footerInnerSection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #0a78c7;
+  height: 100%;
+}
+.ant-layout-header {
+  padding: 0px 0px !important;
+}
+.ant-layout-footer {
+  padding: 0rem 0rem;
+}

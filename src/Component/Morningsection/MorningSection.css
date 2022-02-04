@@ -1,0 +1,11 @@
+.morningSection {
+  position: relative;
+  padding-left: 1rem;
+}
+.morningHeadingSection {
+  display: flex;
+  justify-content: space-between;
+}
+.morningSortSection {
+  display: flex;
+}

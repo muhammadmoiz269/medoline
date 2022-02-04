@@ -1,0 +1,36 @@
+.quoteContent {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  background: #ffff;
+  border-bottom: 1px solid gray;
+}
+.quoteHeadSection {
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.quoteHeadGrid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoSection {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding-right: 2rem;
+}
+/* .imageAnimate {
+  animation-name: move;
+  animation-duration: 4s;
+}
+@keyframes move {
+  from {
+    transform: translateX(-400px);
+    transform: translateY(200px);
+  }
+  to {
+    transform: translateX(0px);
+    transform: translateY(0px);
+  }
+} */

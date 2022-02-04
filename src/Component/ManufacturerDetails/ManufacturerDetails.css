@@ -1,0 +1,14 @@
+.ant-btn {
+  padding-left: 5rem !important;
+  padding-right: 5rem !important;
+  background: #00818f !important;
+  color: #ffff !important;
+}
+.ant-btn-primary {
+  background: transparent !important;
+  color: #00818f !important;
+  border: none !important;
+  padding: 0rem 0.5rem !important;
+  box-shadow: none !important;
+  font-weight: 600 !important;
+}

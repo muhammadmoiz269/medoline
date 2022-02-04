@@ -1,0 +1,8 @@
+.navBarInformation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navBarContent {
+  padding: 0rem 0.8rem;
+}

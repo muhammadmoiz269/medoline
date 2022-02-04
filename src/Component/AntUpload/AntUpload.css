@@ -1,0 +1,6 @@
+.ant-upload-picture-card-wrapper {
+  width: 120px !important;
+}
+.ant-upload.ant-upload-select-picture-card {
+  /* display: none; */
+}

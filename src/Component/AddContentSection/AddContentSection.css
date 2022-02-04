@@ -1,0 +1,21 @@
+.MuiGridCont {
+  display: flex !important;
+  justify-content: space-around !important;
+  align-items: center !important;
+}
+.ContentLeftSection {
+  display: flex;
+  justify-content: space-around;
+  height: max-content;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-device-width: 1024px) {
+  .ContentRightSection {
+    margin-top: 1rem;
+  }
+}
